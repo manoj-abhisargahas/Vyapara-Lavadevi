@@ -5,5 +5,3 @@
 # Technologies
 a cloud based app
 + > Database: Mysql on azure cloud
-+ > Server Side Programming: -
-+ > Front end programming: -
