@@ -3,5 +3,4 @@
 + To calculate the yearly profit in the jewelry business
 
 # Technologies
-a cloud based app
-+ > Database: Mysql on azure cloud
++ > MySQL Database: Mysql on azure cloud
